@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.aws/
+outputs/*_response.json
+outputs/*_texto.txt
+!outputs/exemplo_resultado.txt
+!outputs/exemplo_response.json
