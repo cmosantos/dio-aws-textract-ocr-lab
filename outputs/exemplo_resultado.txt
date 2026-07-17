@@ -1,0 +1,13 @@
+LISTA DE MATERIAL ESCOLAR
+5 cadernos universitários
+2 lápis pretos
+1 borracha branca
+1 apontador com depósito
+1 caixa de lápis de cor
+1 régua de 30 centímetros
+2 canetas azuis
+1 cola branca
+1 tesoura sem ponta
+1 estojo escolar
+
+Observação: saída demonstrativa. O resultado real pode apresentar pequenas diferenças.
